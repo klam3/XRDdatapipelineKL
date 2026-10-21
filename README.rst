@@ -40,15 +40,17 @@ Creat a project folder on your local machine, set up a `virtual environment`_ in
 
 .. _`virtual environment`: https://docs.python.org/3/library/venv.html
 
-Open your PowerShell or Windows Command Prompt*, navigate to your project folder, and run: 
+Open your Windows Command Prompt (or PowerShell), navigate to your project folder, and run: 
 Windows: ``python -m venv .venv`` (Note, .venv is the name of the folder for the environment. you may pick a different name)
-KL input: "python -m venv C:\Users\krist\OneDrive\Documents\XRDpipelineKL"
+KL: ``python -m venv C:\Users\krist\OneDrive\Documents\XRDpipelineKL``
 
 Activate the virtual environment by:
 Windows: ``.venv\Scripts\activate``
-KL input: "C:\Users\krist\OneDrive\Documents\XRDpipelineKL\Scripts\activate"
+KL: "C:\Users\krist\OneDrive\Documents\XRDpipelineKL\Scripts\activate"
 
-then run:
+Clone your XRD pipeline repository by (ChatGPT, why?): ``cd /d "C:\Users\krist\OneDrive\Documents"``
+
+Download Git for Windows before running:
 
 ``git clone https://github.com/AdvancedPhotonSource/XRDdatapipeline.git``
 
