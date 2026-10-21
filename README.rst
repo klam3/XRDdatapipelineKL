@@ -34,7 +34,7 @@ Features
 Installation
 ------------
 
-This software was designed for Python version 3.10.8, download this version of python from https://www.python.org/downloads/release/python-3108/
+This software was designed for Python version 3.10.8, download this version of python from https://www.python.org/downloads/release/python-3108/ (KL on Python 3.15)
 
 Creat a project folder on your local machine, set up a `virtual environment`_ in that folder by:
 
