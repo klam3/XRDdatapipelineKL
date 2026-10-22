@@ -48,7 +48,7 @@ Activate the virtual environment by:
 Windows: ``.venv\Scripts\activate``
 KL: "C:\Users\krist\OneDrive\Documents\XRDpipelineKL\Scripts\activate"
 
-Clone your XRD pipeline repository by (ChatGPT, why?): ``cd /d "C:\Users\krist\OneDrive\Documents"``
+Clone the XRD pipeline repository into virtual environment by (ChatGPT, why?): ``cd /d "C:\Users\krist\OneDrive\Documents"``
 
 Download Git for Windows before running:
 
